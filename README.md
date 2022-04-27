@@ -92,12 +92,6 @@
 📆 2018 - 2020\
 📍 **Logicalis Brasil** - São Paulo/SP, Brazil
   
-
-## Courses and 
-
-- 📖 **Electrical Engineer**\
-📆 2015 - 2019\
-📍 **Mackeznie University** - São Paulo, Brazil
 <!--
 **alexandresanlim/alexandresanlim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
