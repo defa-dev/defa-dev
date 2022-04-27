@@ -36,9 +36,25 @@
 
 ## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil
+- 📖 **Electrical Engineer**\
+📆 2015 - 2019\
+📍 **Mackeznie University** - São Paulo, Brazil
+  
+ <img align="right" src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />
+ <img align="right" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  
+  
+
+  
+
+- 📖 **MBA DevOps Engineer and Cloud Solutions**\
+📆 2021 - 2022\
+📍 **Mackeznie University** - São Paulo, Brazil
 
 ## Experience
 
