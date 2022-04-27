@@ -63,71 +63,35 @@
 <img align="right" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   
-  
-
 
 - 👨‍💻 **Software Developer**\
 📆 2021 - moment\
 📍 **NTT Ltda** - São Paulo/SP, Brazil
   
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />  
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - oct/2021\
-📍 **Avanade** - São Paulo/SP, Brazil
   
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
+- 👨‍💻 **Software Applications Analyst**\
+📆 2020 - aug/2021\
+📍 **Logicalis Brasil** - São Paulo/SP, Brazil
+  
+<img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
 
-- 👨‍💻 **Cross Mobile Developer**\
-📆 2021 - jun/2021\
-📍 **Squadra Digital** - Belo Horizonte/MG, Brazil
+- 👨‍💻 **(Network) Projects Intern**\
+📆 2018 - 2020\
+📍 **Logicalis Brasil** - São Paulo/SP, Brazil
 
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/UWP-0089D6?logo=microsoft&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
-
-- 👨‍💻 **CIO and Cross Mobile Developer**\
-📆 2016 - 2021\
-📍 **Infinitus Solutions** - Curitiba/PR, Brazil
-
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-
-- 👨‍💻 **Systems Analyst and Front End Developer**\
-📆 2015 - 2016\
-📍 **Web Works** - Presidente Prudente/SP, Brazil
-
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-
-
-- 👨‍💻 **Office Assistant**\
-📆 2011 - 2015\
-📍 **Energisa** - Presidente Prudente/SP, Brazil
-
-<!--## Skills
-
-<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
 
 **Programming**
 
