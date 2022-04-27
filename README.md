@@ -19,10 +19,6 @@
 </p>
 
 <p align='center'>
-[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=defa-dev)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-<p align='center'>
   <a href="#"><img src="(https://github-readme-stats.vercel.app/api?username=defa-dev&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
