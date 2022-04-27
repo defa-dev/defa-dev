@@ -18,10 +18,12 @@
   
 </p>
 
+<p align='center'>
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=defa-dev)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="(https://github-readme-stats.vercel.app/api?username=defa-dev&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <!-- <details align='center'>
@@ -30,9 +32,6 @@
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:felipesnep@hotmail.com'>felipesnep@hotmail.com</a>
-</p>
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/defa-dev/defa-dev"></a> hipsters and nerds have come here o/
 </p>
 
 <details>
