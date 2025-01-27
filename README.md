@@ -60,6 +60,15 @@
 
 ## Experience
 
+<img align="right" src="https://img.shields.io/badge/Oracle Cloud-F80000?logo=oracle&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />  
+<img align="right" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  
+
+- 👨‍💻 **Solutions Architect**\
+📆 2023 - moment\
+📍 **NTT Ltda** - São Paulo/SP, Brazil
+
 <img align="right" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
@@ -71,7 +80,7 @@
   
 
 - 👨‍💻 **Software Developer**\
-📆 2021 - moment\
+📆 2021 - 2023\
 📍 **NTT Ltda** - São Paulo/SP, Brazil
   
 <img align="right" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
