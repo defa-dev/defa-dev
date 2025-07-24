@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  A full stack developer from São Paulo, Brazil.
+  A Devops and Platform Engineer  from São Paulo, Brazil.
 </p>
 
 
